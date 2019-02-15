@@ -14,7 +14,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import 'jquery/jquery.all';
+import 'jquery/jquery.common';
 import 'ext/bootstrap.2.3.2.min';
 import _ from 'lodash';
 import Dropzone from 'dropzone';
